@@ -8,7 +8,7 @@ A simple Spring Boot backend for managing books in a small library.
 - Delete a book by ID
 
 ## Entity
-- **Book**: `id`, `title`, `author`, `genre`, `publishedYear`
+- **Book**: `id`, `title`, `author`, `genre`, `published_year`
   
 ## Tech Stack
 - Spring Boot
